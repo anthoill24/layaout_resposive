@@ -1,0 +1,8 @@
+h1 {
+  color: red;
+  border-top: 40%;
+}
+h2{
+    position: relative;
+    bottom: 20px;
+}
